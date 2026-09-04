@@ -1,0 +1,61 @@
+about:
+  description:
+  |
+    A simple, fast and user-friendly alternative to 'find'
+  license: Apache-2.0
+  homepage: 
+  head: 1765d08
+  archived: false
+  latestVersion: v10.5.0
+  collectedAt: 2026-09-04T04:44:07Z
+timeline:
+  created: 2017-05-09
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-26
+popularity:
+  star: 44299
+  watcher: 153
+  fork: 1124
+  release: 45
+  contributor: 208
+  pullRequest: 251
+  issue: 985
+language:
+  Rust: 261335
+  Shell: 19097
+  Makefile: 1885
+  Awk: 618
+totalBytes: 282935
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 4
+    openPR: 16
+    closedIssue: 2
+    openIssue: 1
+    commit: 4
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 30
+    openPR: 30
+    closedIssue: 7
+    openIssue: 6
+    commit: 32
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 64
+    openPR: 40
+    closedIssue: 21
+    openIssue: 10
+    commit: 96
+  last360d:
+    since: 2025-09-09
+    release: 4
+    mergedPR: 118
+    openPR: 53
+    closedIssue: 46
+    openIssue: 19
+    commit: 166
