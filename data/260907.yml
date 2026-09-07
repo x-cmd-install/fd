@@ -5,18 +5,18 @@ about:
   head: bb80489
   archived: false
   latestVersion: "v10.5.0"
-  collectedAt: 2026-09-07T05:51:12Z
+  collectedAt: 2026-09-07T18:40:34Z
 timeline:
   created: 2017-05-09
   lastCommit: 2026-09-07
   lastRelease: 2026-08-26
 popularity:
-  star: 44330
+  star: 44331
   watcher: 154
-  fork: 1128
+  fork: 1129
   release: 45
   contributor: 208
-  pullRequest: 1033
+  pullRequest: 1034
   issue: 988
 language:
   Rust: 261335
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 8
-    openPR: 15
+    openPR: 16
     closedIssue: 2
     openIssue: 4
     commit: 8
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 22
-    openPR: 19
+    openPR: 20
     closedIssue: 6
     openIssue: 7
     commit: 23
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 34
-    openPR: 29
+    openPR: 30
     closedIssue: 7
     openIssue: 9
     commit: 36
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 1
     mergedPR: 66
-    openPR: 38
+    openPR: 39
     closedIssue: 19
     openIssue: 12
     commit: 94
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 4
     mergedPR: 122
-    openPR: 52
+    openPR: 53
     closedIssue: 45
     openIssue: 22
     commit: 170
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 5
     mergedPR: 199
-    openPR: 59
+    openPR: 60
     closedIssue: 84
     openIssue: 47
     commit: 461
 total:
   release: 45
   mergedPR: 783
-  openPR: 67
+  openPR: 68
   closedIssue: 855
   openIssue: 133
   commit: 2018
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/fd
-collectedAt: 2026-09-07T05:51:13Z
+collectedAt: 2026-09-07T18:40:36Z
 loc:
   Rust:
     code: 7038
@@ -232,7 +232,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:51:13+00:00
+  collectedAt: 2026-09-07T18:40:37+00:00
   platform:
     darwin/arm64:
       name:  fd-v10.5.0-aarch64-apple-darwin.tar.gz
