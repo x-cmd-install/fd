@@ -7,7 +7,7 @@ about:
   latestVersion: "v10.5.0"
   latestRelease: "v10.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:47:09Z
+  collectedAt: 2026-09-09T20:22:17Z
 timeline:
   created: 2017-05-09
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 44342
+  star: 44349
   watcher: 154
-  fork: 1129
+  fork: 1130
   release: 45
   contributor: 209
-  pullRequest: 1035
-  issue: 989
+  pullRequest: 1037
+  issue: 990
 language:
   Rust: 261625
   Shell: 19097
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-10
     release: 1
     mergedPR: 9
-    openPR: 16
+    openPR: 18
     closedIssue: 3
-    openIssue: 4
+    openIssue: 5
     commit: 9
   last60d:
     since: 2026-07-11
     release: 1
     mergedPR: 23
-    openPR: 20
+    openPR: 22
     closedIssue: 7
-    openIssue: 7
+    openIssue: 8
     commit: 24
   last90d:
     since: 2026-06-11
     release: 1
     mergedPR: 35
-    openPR: 30
+    openPR: 32
     closedIssue: 8
-    openIssue: 9
+    openIssue: 10
     commit: 37
   last180d:
     since: 2026-03-13
     release: 1
     mergedPR: 66
-    openPR: 38
+    openPR: 40
     closedIssue: 19
-    openIssue: 12
+    openIssue: 13
     commit: 95
   last360d:
     since: 2025-09-14
     release: 4
     mergedPR: 123
-    openPR: 53
+    openPR: 55
     closedIssue: 46
-    openIssue: 22
+    openIssue: 23
     commit: 171
   last720d:
     since: 2024-09-19
     release: 5
     mergedPR: 200
-    openPR: 60
-    closedIssue: 85
+    openPR: 62
+    closedIssue: 86
     openIssue: 47
     commit: 462
 total:
   release: 45
   mergedPR: 784
-  openPR: 68
-  closedIssue: 856
-  openIssue: 133
+  openPR: 70
+  closedIssue: 858
+  openIssue: 132
   commit: 2019
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/fd
-collectedAt: 2026-09-09T05:47:10Z
+collectedAt: 2026-09-09T20:22:18Z
 loc:
   Rust:
     code: 7050
