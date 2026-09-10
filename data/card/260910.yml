@@ -7,7 +7,7 @@ about:
   latestVersion: "v10.5.0"
   latestRelease: "v10.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:54:33Z
+  collectedAt: 2026-09-10T23:52:09Z
 timeline:
   created: 2017-05-09
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 44357
+  star: 44361
   watcher: 154
   fork: 1132
   release: 45
@@ -86,7 +86,7 @@ total:
   commit: 2019
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/fd
-collectedAt: 2026-09-10T17:54:34Z
+collectedAt: 2026-09-10T23:52:11Z
 loc:
   Rust:
     code: 7050
