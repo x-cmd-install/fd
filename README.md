@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 44,363 · **Forks**: 1,132 · **Open issues**: 990 · **Contributors**: 209
+- **Stars**: 44,370 · **Forks**: 1,133 · **Open issues**: 990 · **Contributors**: 209
 
 ## Totals (cumulative)
 
@@ -100,4 +100,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:54:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:01:10Z._
