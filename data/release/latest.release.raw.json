@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1288170,
       "digest": "sha256:39c8136e643131692992fbf8288fe2b7d00ce4f5f03d79cf87015e1c845ce0b6",
-      "download_count": 372,
+      "download_count": 386,
       "created_at": "2026-08-26T07:59:20Z",
       "updated_at": "2026-08-26T07:59:20Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-musl_10.5.0_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1257504,
       "digest": "sha256:1c60137aa59e69b1857f11474f808bd2bc6081dd6197535dbea680730dbc1438",
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2026-08-26T07:59:41Z",
       "updated_at": "2026-08-26T07:59:41Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-musl_10.5.0_i686.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1334374,
       "digest": "sha256:b67e1836c468e42e411984b56e52fa7abec08c2bd22c867398e7cc134aac5e12",
-      "download_count": 78733,
+      "download_count": 80291,
       "created_at": "2026-08-26T07:59:22Z",
       "updated_at": "2026-08-26T07:59:22Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1370512,
       "digest": "sha256:a2bcddcfd259b05357a77bbc6cd671fdb30f63fd266a0e748305890a8c5ceaa6",
-      "download_count": 1108,
+      "download_count": 1128,
       "created_at": "2026-08-26T08:00:20Z",
       "updated_at": "2026-08-26T08:00:21Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-aarch64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1392634,
       "digest": "sha256:c0ee43802e3313a317c5af2f4eabd6ba13eeedd595af9775f05e18a13ac4f52c",
-      "download_count": 42949,
+      "download_count": 43749,
       "created_at": "2026-08-26T08:00:11Z",
       "updated_at": "2026-08-26T08:00:12Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1429078,
       "digest": "sha256:d76c4317f7d5dba69f8a2a15856c90c777e7f0dd4e85f0de8c76de6992c374d4",
-      "download_count": 8679,
+      "download_count": 9004,
       "created_at": "2026-08-26T07:59:48Z",
       "updated_at": "2026-08-26T07:59:48Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-aarch64-unknown-linux-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1378468,
       "digest": "sha256:6811ce3a8de536a539aab3d58820d8491e616192e801e4958ac51236efad9769",
-      "download_count": 217,
+      "download_count": 219,
       "created_at": "2026-08-26T08:01:25Z",
       "updated_at": "2026-08-26T08:01:25Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-i686-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1426858,
       "digest": "sha256:7e31028c62c6955877735d0406807aa484c2a5e6f86235a59e26c29c301da590",
-      "download_count": 1415,
+      "download_count": 1435,
       "created_at": "2026-08-26T08:02:29Z",
       "updated_at": "2026-08-26T08:02:29Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1475808,
       "digest": "sha256:1720ed5b2f5b09870ea9580eb0653d87972e8e7039d5d2f39ea2f54fbfda9f42",
-      "download_count": 349,
+      "download_count": 353,
       "created_at": "2026-08-26T08:00:56Z",
       "updated_at": "2026-08-26T08:00:57Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-x86_64-pc-windows-gnu.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1535063,
       "digest": "sha256:a227701b8551c35a9931d9f6da75503cf86d88e182d71fb849a70864c5d57cd7",
-      "download_count": 117646,
+      "download_count": 119978,
       "created_at": "2026-08-26T08:00:39Z",
       "updated_at": "2026-08-26T08:00:39Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-x86_64-pc-windows-msvc.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1513869,
       "digest": "sha256:a1259cd129636efbc3fef123525c1b49e88fe5088c012630983c310e52fdfa95",
-      "download_count": 256513,
+      "download_count": 262914,
       "created_at": "2026-08-26T07:59:38Z",
       "updated_at": "2026-08-26T07:59:38Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1573549,
       "digest": "sha256:761c72dc8e120d85b22292063be8a796e2eeb20eb3e4f38b8fa2343ccf3514a7",
-      "download_count": 46620,
+      "download_count": 48437,
       "created_at": "2026-08-26T07:59:20Z",
       "updated_at": "2026-08-26T07:59:20Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-x86_64-unknown-linux-musl.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1235940,
       "digest": "sha256:1fca9f8fb221f26fe37b425db4935dc8180099bdecfd8e031538bfc9396e95f8",
-      "download_count": 783,
+      "download_count": 795,
       "created_at": "2026-08-26T07:59:38Z",
       "updated_at": "2026-08-26T07:59:38Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd_10.5.0_amd64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1128796,
       "digest": "sha256:a3128d8e206dd646a27f4637ca081f311df2d6f21cd87bbead7fc92cc0952192",
-      "download_count": 155,
+      "download_count": 159,
       "created_at": "2026-08-26T08:00:11Z",
       "updated_at": "2026-08-26T08:00:12Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd_10.5.0_arm64.deb"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 1254656,
       "digest": "sha256:442836307a840051ffc7b6b709c9810464593ed07f965e7bf4c5cd5d6a1ad8b0",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-08-26T07:59:23Z",
       "updated_at": "2026-08-26T07:59:23Z",
       "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd_10.5.0_i686.deb"
