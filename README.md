@@ -4,7 +4,7 @@
 
 A simple, fast and user-friendly alternative to 'find'
 
-![fd](https://repo.x-cmd.io/fd.svg)
+[![x-cmd/install — fd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fd.svg)](https://x-cmd.com/install/fd)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 44,469 · **Forks**: 1,139 · **Open issues**: 990 · **Contributors**: 210
+- **Stars**: 44,491 · **Forks**: 1,140 · **Open issues**: 990 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 787 · **Open PRs**: 69 · **Closed issues**: 859 · **Open issues**: 131 · **Commits**: 2023
+- **Releases**: 45 · **Merged PRs**: 787 · **Open PRs**: 70 · **Closed issues**: 859 · **Open issues**: 131 · **Commits**: 2023
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 12 | 13 | 3 | 4 | 13 |
-| last60d | 2026-07-20 | 1 | 23 | 22 | 8 | 7 | 25 |
-| 90d | 2026-06-20 | 1 | 37 | 32 | 9 | 9 | 39 |
-| last180d | 2026-03-22 | 1 | 66 | 37 | 15 | 11 | 95 |
-| 360d | 2025-09-23 | 4 | 125 | 54 | 44 | 22 | 173 |
-| last720d | 2024-09-28 | 5 | 201 | 61 | 85 | 46 | 465 |
+| 30d | 2026-08-21 | 1 | 12 | 14 | 3 | 4 | 13 |
+| last60d | 2026-07-22 | 1 | 23 | 23 | 8 | 6 | 25 |
+| 90d | 2026-06-22 | 1 | 37 | 33 | 9 | 9 | 39 |
+| last180d | 2026-03-24 | 1 | 64 | 38 | 15 | 11 | 95 |
+| 360d | 2025-09-25 | 4 | 125 | 55 | 43 | 22 | 173 |
+| last720d | 2024-09-30 | 5 | 201 | 62 | 85 | 46 | 465 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:20:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:55:49Z._
