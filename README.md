@@ -4,7 +4,7 @@
 
 A simple, fast and user-friendly alternative to 'find'
 
-[![x-cmd/install — fd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fd.svg)](https://x-cmd.com/install/fd)
+[![x-cmd/install — fd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fd.svg)](https://x-cmd.com/install/fd)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 44,510 · **Forks**: 1,140 · **Open issues**: 990 · **Contributors**: 210
+- **Stars**: 44,517 · **Forks**: 1,142 · **Open issues**: 990 · **Contributors**: 210
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 13 | 13 | 3 | 4 | 10 |
-| last60d | 2026-07-24 | 1 | 21 | 22 | 8 | 5 | 22 |
-| 90d | 2026-06-24 | 1 | 37 | 32 | 9 | 8 | 35 |
-| last180d | 2026-03-26 | 1 | 64 | 37 | 15 | 10 | 92 |
-| 360d | 2025-09-27 | 4 | 126 | 53 | 43 | 22 | 171 |
-| last720d | 2024-10-02 | 5 | 198 | 60 | 85 | 46 | 463 |
+| 30d | 2026-08-24 | 1 | 13 | 13 | 3 | 4 | 10 |
+| last60d | 2026-07-25 | 1 | 21 | 21 | 8 | 5 | 22 |
+| 90d | 2026-06-25 | 1 | 37 | 31 | 9 | 8 | 35 |
+| last180d | 2026-03-27 | 1 | 64 | 37 | 14 | 10 | 92 |
+| 360d | 2025-09-28 | 4 | 126 | 53 | 43 | 22 | 171 |
+| last720d | 2024-10-03 | 5 | 198 | 60 | 85 | 46 | 455 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:55:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:01:01Z._
