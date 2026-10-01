@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 44,596 · **Forks**: 1,147 · **Open issues**: 990 · **Contributors**: 213
+- **Stars**: 44,604 · **Forks**: 1,149 · **Open issues**: 990 · **Contributors**: 213
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 10 | 10 | 2 | 3 | 9 |
-| last60d | 2026-08-01 | 1 | 15 | 22 | 4 | 4 | 18 |
-| 90d | 2026-07-02 | 1 | 29 | 28 | 9 | 8 | 32 |
-| last180d | 2026-04-03 | 1 | 63 | 38 | 14 | 10 | 92 |
-| 360d | 2025-10-05 | 4 | 124 | 53 | 42 | 22 | 174 |
-| last720d | 2024-10-10 | 5 | 200 | 61 | 85 | 45 | 459 |
+| 30d | 2026-09-01 | 0 | 5 | 10 | 2 | 3 | 9 |
+| last60d | 2026-08-02 | 1 | 15 | 22 | 4 | 4 | 18 |
+| 90d | 2026-07-03 | 1 | 28 | 28 | 9 | 8 | 32 |
+| last180d | 2026-04-04 | 1 | 62 | 38 | 14 | 10 | 92 |
+| 360d | 2025-10-06 | 4 | 124 | 53 | 42 | 22 | 174 |
+| last720d | 2024-10-11 | 5 | 200 | 61 | 85 | 45 | 459 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:28:29Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:39:55Z._
