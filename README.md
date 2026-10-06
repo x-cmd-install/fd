@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.5.0` (2026-08-26)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 44,640 · **Forks**: 1,151 · **Open issues**: 991 · **Contributors**: 213
+- **Stars**: 44,647 · **Forks**: 1,152 · **Open issues**: 991 · **Contributors**: 214
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 794 · **Open PRs**: 73 · **Closed issues**: 862 · **Open issues**: 129 · **Commits**: 2036
+- **Releases**: 45 · **Merged PRs**: 798 · **Open PRs**: 69 · **Closed issues**: 862 · **Open issues**: 129 · **Commits**: 2044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 7 | 13 | 2 | 1 | 6 |
-| last60d | 2026-08-06 | 1 | 16 | 24 | 5 | 4 | 18 |
-| 90d | 2026-07-07 | 1 | 30 | 28 | 9 | 7 | 34 |
-| last180d | 2026-04-08 | 1 | 63 | 42 | 14 | 10 | 94 |
-| 360d | 2025-10-10 | 4 | 126 | 57 | 43 | 22 | 171 |
-| last720d | 2024-10-15 | 5 | 202 | 65 | 86 | 45 | 463 |
+| 30d | 2026-09-06 | 0 | 11 | 9 | 2 | 1 | 10 |
+| last60d | 2026-08-07 | 1 | 20 | 21 | 5 | 4 | 22 |
+| 90d | 2026-07-08 | 1 | 34 | 25 | 9 | 7 | 38 |
+| last180d | 2026-04-09 | 1 | 67 | 39 | 14 | 10 | 98 |
+| 360d | 2025-10-11 | 4 | 130 | 53 | 43 | 22 | 175 |
+| last720d | 2024-10-16 | 5 | 206 | 61 | 86 | 45 | 471 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:28:46Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:12:18Z._
