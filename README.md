@@ -14,14 +14,14 @@ x install fd
 
 ## Code insight
 
-Total: **8,040** lines of code across **34** files in the top 5 languages.
+Total: **8,136** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,506 | 215 | 649 | 24 |
+| Rust | 7,601 | 221 | 667 | 25 |
 | Sh | 192 | 34 | 62 | 4 |
 | Svg | 160 | 1 | 1 | 2 |
-| Toml | 94 | 7 | 21 | 3 |
+| Toml | 95 | 7 | 21 | 3 |
 | Makefile | 51 | 0 | 13 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.5.0` (2026-08-26)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 44,878 · **Forks**: 1,219 · **Open issues**: 1,005 · **Contributors**: 219
+- **Stars**: 44,889 · **Forks**: 1,232 · **Open issues**: 1,007 · **Contributors**: 219
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 815 · **Open PRs**: 80 · **Closed issues**: 872 · **Open issues**: 133 · **Commits**: 2086
+- **Releases**: 45 · **Merged PRs**: 818 · **Open PRs**: 76 · **Closed issues**: 874 · **Open issues**: 133 · **Commits**: 2096
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 21 | 15 | 8 | 6 | 23 |
-| last60d | 2026-08-29 | 0 | 32 | 23 | 11 | 10 | 39 |
-| 90d | 2026-07-30 | 1 | 42 | 36 | 13 | 10 | 47 |
-| last180d | 2026-05-01 | 1 | 71 | 50 | 19 | 15 | 100 |
-| 360d | 2025-11-02 | 4 | 136 | 65 | 49 | 24 | 189 |
-| last720d | 2024-11-07 | 5 | 219 | 72 | 92 | 51 | 505 |
+| 30d | 2026-09-29 | 0 | 24 | 11 | 9 | 7 | 28 |
+| last60d | 2026-08-30 | 0 | 35 | 19 | 12 | 10 | 44 |
+| 90d | 2026-07-31 | 1 | 45 | 32 | 14 | 11 | 52 |
+| last180d | 2026-05-02 | 1 | 74 | 46 | 21 | 15 | 105 |
+| 360d | 2025-11-03 | 4 | 139 | 61 | 51 | 24 | 194 |
+| last720d | 2024-11-08 | 5 | 222 | 68 | 94 | 51 | 515 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:32:40Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:39:46Z._
