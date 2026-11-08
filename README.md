@@ -41,56 +41,56 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.5.1` (2026-11-04)
+- **Latest**: `v10.5.2` (2026-11-07)
 - **Last commit**: 2026-11-07
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 45,091 · **Forks**: 1,299 · **Open issues**: 1,013 · **Contributors**: 222
+- **Stars**: 45,116 · **Forks**: 1,303 · **Open issues**: 1,013 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 825 · **Open PRs**: 73 · **Closed issues**: 880 · **Open issues**: 133 · **Commits**: 2113
+- **Releases**: 47 · **Merged PRs**: 828 · **Open PRs**: 72 · **Closed issues**: 880 · **Open issues**: 133 · **Commits**: 2118
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 24 | 6 | 14 | 6 | 35 |
-| last60d | 2026-09-08 | 1 | 35 | 14 | 15 | 9 | 49 |
-| 90d | 2026-08-09 | 2 | 46 | 26 | 20 | 11 | 60 |
-| last180d | 2026-05-11 | 2 | 81 | 41 | 27 | 15 | 113 |
-| 360d | 2025-11-12 | 5 | 139 | 57 | 54 | 24 | 197 |
-| last720d | 2024-11-17 | 6 | 229 | 65 | 100 | 50 | 532 |
+| 30d | 2026-10-09 | 2 | 25 | 7 | 14 | 5 | 37 |
+| last60d | 2026-09-09 | 2 | 36 | 13 | 15 | 8 | 51 |
+| 90d | 2026-08-10 | 3 | 49 | 25 | 20 | 11 | 63 |
+| last180d | 2026-05-12 | 3 | 84 | 40 | 27 | 15 | 116 |
+| 360d | 2025-11-13 | 6 | 142 | 56 | 54 | 24 | 200 |
+| last720d | 2024-11-18 | 7 | 232 | 64 | 100 | 50 | 537 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fd-musl_10.5.1_amd64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-musl_10.5.1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
-| [fd-musl_10.5.1_arm64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-musl_10.5.1_arm64.deb) | 1.3 MiB | `runtime/deb/arm64` |
-| [fd-musl_10.5.1_armhf.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-musl_10.5.1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
-| [fd-musl_10.5.1_i686.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-musl_10.5.1_i686.deb) | 1.2 MiB | `other` |
-| [fd-v10.5.1-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
-| [fd-v10.5.1-aarch64-pc-windows-gnullvm.zip](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-pc-windows-gnullvm.zip) | 1.3 MiB | `native/win/arm64` |
-| [fd-v10.5.1-aarch64-pc-windows-msvc.zip](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-pc-windows-msvc.zip) | 1.3 MiB | `native/win/arm64` |
-| [fd-v10.5.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
-| [fd-v10.5.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/arm64/musl` |
-| [fd-v10.5.1-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-arm-unknown-linux-gnueabihf.tar.gz) | 1.6 MiB | `native/linux/arm/glibc` |
-| [fd-v10.5.1-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-arm-unknown-linux-musleabihf.tar.gz) | 1.4 MiB | `native/linux/arm/musl` |
-| [fd-v10.5.1-i686-pc-windows-msvc.zip](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-i686-pc-windows-msvc.zip) | 1.3 MiB | `native/win/x64` |
-| [fd-v10.5.1-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-i686-unknown-linux-gnu.tar.gz) | 1.7 MiB | `native/linux/x86/glibc` |
-| [fd-v10.5.1-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-i686-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x86/musl` |
-| [fd-v10.5.1-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-x86_64-apple-darwin.tar.gz) | 1.4 MiB | `native/darwin/x64` |
-| [fd-v10.5.1-x86_64-pc-windows-gnu.zip](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-x86_64-pc-windows-gnu.zip) | 1.4 MiB | `native/win/x64` |
-| [fd-v10.5.1-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-x86_64-pc-windows-msvc.zip) | 1.5 MiB | `native/win/x64` |
-| [fd-v10.5.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-x86_64-unknown-linux-gnu.tar.gz) | 1.7 MiB | `native/linux/x64/glibc` |
-| [fd-v10.5.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-x86_64-unknown-linux-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
-| [fd_10.5.1_amd64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd_10.5.1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
-| [fd_10.5.1_arm64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd_10.5.1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
-| [fd_10.5.1_armhf.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd_10.5.1_armhf.deb) | 1.3 MiB | `runtime/deb/armhf` |
-| [fd_10.5.1_i686.deb](https://github.com/sharkdp/fd/releases/download/v10.5.1/fd_10.5.1_i686.deb) | 1.4 MiB | `other` |
+| [fd-musl_10.5.2_amd64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-musl_10.5.2_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [fd-musl_10.5.2_arm64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-musl_10.5.2_arm64.deb) | 1.3 MiB | `runtime/deb/arm64` |
+| [fd-musl_10.5.2_armhf.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-musl_10.5.2_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
+| [fd-musl_10.5.2_i686.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-musl_10.5.2_i686.deb) | 1.2 MiB | `other` |
+| [fd-v10.5.2-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-aarch64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
+| [fd-v10.5.2-aarch64-pc-windows-gnullvm.zip](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-aarch64-pc-windows-gnullvm.zip) | 1.3 MiB | `native/win/arm64` |
+| [fd-v10.5.2-aarch64-pc-windows-msvc.zip](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-aarch64-pc-windows-msvc.zip) | 1.3 MiB | `native/win/arm64` |
+| [fd-v10.5.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [fd-v10.5.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-aarch64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/arm64/musl` |
+| [fd-v10.5.2-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-arm-unknown-linux-gnueabihf.tar.gz) | 1.6 MiB | `native/linux/arm/glibc` |
+| [fd-v10.5.2-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-arm-unknown-linux-musleabihf.tar.gz) | 1.4 MiB | `native/linux/arm/musl` |
+| [fd-v10.5.2-i686-pc-windows-msvc.zip](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-i686-pc-windows-msvc.zip) | 1.3 MiB | `native/win/x64` |
+| [fd-v10.5.2-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-i686-unknown-linux-gnu.tar.gz) | 1.7 MiB | `native/linux/x86/glibc` |
+| [fd-v10.5.2-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-i686-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x86/musl` |
+| [fd-v10.5.2-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-x86_64-apple-darwin.tar.gz) | 1.4 MiB | `native/darwin/x64` |
+| [fd-v10.5.2-x86_64-pc-windows-gnu.zip](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-x86_64-pc-windows-gnu.zip) | 1.4 MiB | `native/win/x64` |
+| [fd-v10.5.2-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-x86_64-pc-windows-msvc.zip) | 1.5 MiB | `native/win/x64` |
+| [fd-v10.5.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-x86_64-unknown-linux-gnu.tar.gz) | 1.7 MiB | `native/linux/x64/glibc` |
+| [fd-v10.5.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-x86_64-unknown-linux-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
+| [fd_10.5.2_amd64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd_10.5.2_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [fd_10.5.2_arm64.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd_10.5.2_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [fd_10.5.2_armhf.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd_10.5.2_armhf.deb) | 1.3 MiB | `runtime/deb/armhf` |
+| [fd_10.5.2_i686.deb](https://github.com/sharkdp/fd/releases/download/v10.5.2/fd_10.5.2_i686.deb) | 1.4 MiB | `other` |
 
 ## Improve this data
 
@@ -101,4 +101,4 @@ Install metadata for fd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:47:06Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:52:14Z._
